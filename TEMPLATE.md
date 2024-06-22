@@ -10,7 +10,7 @@ Besides my studies, I enjoy working with robot-centered **embedded systems** and
 <!--[![views](https://komarev.com/ghpvc/?username=DaniDoro&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/DaniDoro)\-->
 <img height="31" width="31" src="https://cdn.simpleicons.org/cplusplus" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/python" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/arduino" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/ros" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/docker" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/git" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/ubuntu" />
 
-Since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repos.
 
 ----
 
@@ -37,8 +37,8 @@ Here are some of the things I've worked on as a **student assistant**:
 
 Some of my **other work**:
 <div align="center">
-  <img align="center" src="images/quadruped.gif" height="250">
-  <img align="center" src="images/MK4_PMS.gif" height="250">
+  <img align="center" src="images/quadruped.gif" height="230">
+  <img align="center" src="images/MK4_PMS.gif" height="230">
 </div>
 
 ----
