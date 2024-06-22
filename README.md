@@ -8,7 +8,7 @@ Besides my studies, I enjoy working with robot-centered **embedded systems** and
 [![views](https://komarev.com/ghpvc/?username=DaniDoro&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/DaniDoro)\
 <img height="31" width="31" src="https://cdn.simpleicons.org/cplusplus" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/python" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/arduino" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/ros" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/docker" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/git" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/ubuntu" />
 
-Since I joined GitHub **3** years ago, I pushed **767** commits, opened **1** issues, submitted **5** pull requests, and contributed to **3** public repositories.
+Since I joined GitHub **3** years ago, I pushed **769** commits, opened **1** issues, submitted **5** pull requests, and contributed to **3** public repositories.
 
 ----
 
