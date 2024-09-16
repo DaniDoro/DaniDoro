@@ -7,7 +7,7 @@ I'm **Daniel**, a Robotics master's student with a passion for **developing adva
 <!--[![views](https://komarev.com/ghpvc/?username=DaniDoro&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/DaniDoro)\-->
 <img height="31" width="31" src="https://cdn.simpleicons.org/cplusplus" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/python" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/arduino" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/ros" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/docker" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/git" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/ubuntu" />
 
-Since I joined GitHub **3** years ago, I pushed **812** commits, opened **1** issues, submitted **5** pull requests, and contributed to **3** public repos.
+Since I joined GitHub **3** years ago, I pushed **813** commits, opened **1** issues, submitted **5** pull requests, and contributed to **3** public repos.
 
 ----
 
