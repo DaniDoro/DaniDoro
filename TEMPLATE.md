@@ -7,7 +7,7 @@ I'm **Daniel**, a Robotics master's student with a passion for **developing adva
 <!--[![views](https://komarev.com/ghpvc/?username=DaniDoro&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/DaniDoro)\-->
 <img height="31" width="31" src="https://cdn.simpleicons.org/cplusplus" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/python" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/arduino" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/ros" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/docker" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/git" /> &nbsp;&nbsp; <img height="31" width="31" src="https://cdn.simpleicons.org/ubuntu" />
 
-Since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repos.
+<!--Since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repos.\-->
 
 ----
 
