@@ -1,6 +1,6 @@
-<img align="left" src="images/chin_yawn.png">
+<!--<img align="left" src="images/chin_yawn.png">\-->
 
-### Hey!
+<!--### Hey!\-->
 
 I'm **Daniel**, a Robotics master's student with a passion for **developing advanced robotic systems**. Besides my studies, I enjoy working with robot-centered **embedded systems** and **PCB design**.
 
